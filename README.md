@@ -1,16 +1,22 @@
-# React + Vite
+# InsightBoard
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+InsightBoard is a SaaS-style dashboard built with React to showcase front-end architecture, UI/UX refinement, route-based navigation, animated interactions, and responsive layouts.
 
-Currently, two official plugins are available:
+## Stack
+- React
+- Vite
+- Tailwind CSS
+- Framer Motion
+- React Router
+- Recharts
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## Highlights
+- Dashboard with metrics and charts
+- Route-based navigation
+- Responsive sidebar and mobile menu
+- Interactive request cards
+- Analytics and settings views
+- SaaS-inspired dark UI
 
-## React Compiler
-
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
-
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## Goal
+This project was built as a portfolio piece focused on junior React opportunities, emphasizing componentization, interface quality, and product-like presentation.
